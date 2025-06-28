@@ -4,7 +4,6 @@ import { CookieHelper } from '../helpers/CookieHelper';
 // Type definition for constituent data
 type Constituent = {
   name: string;
-  percentChange?: number | null;
   marketCapInMillions?: number | null;
   marketCapText?: string | null;
 };
