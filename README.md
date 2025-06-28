@@ -35,7 +35,7 @@ CAPLIN-SDET-TEST/
 ### Steps
 
 ```bash
-git clone https://github.com/yourusername/caplin-sdet-test.git
+git clone https://github.com/guptanidihi/caplin-sdet-test.git
 cd caplin-sdet-test
 npm install
 npx playwright install
